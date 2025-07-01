@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\bin\Debug\net9.0\Prog_ContaBancaria.exe
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\bin\Debug\net9.0\Prog_ContaBancaria.deps.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\bin\Debug\net9.0\Prog_ContaBancaria.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\bin\Debug\net9.0\Prog_ContaBancaria.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\bin\Debug\net9.0\Prog_ContaBancaria.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\Prog_ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\Prog_ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\Prog_ContaBancaria.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\Prog_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\Prog_ContaBancaria.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\refint\Prog_ContaBancaria.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\Prog_ContaBancaria.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\Prog_ContaBancaria.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_ContaBancaria\obj\Debug\net9.0\ref\Prog_ContaBancaria.dll

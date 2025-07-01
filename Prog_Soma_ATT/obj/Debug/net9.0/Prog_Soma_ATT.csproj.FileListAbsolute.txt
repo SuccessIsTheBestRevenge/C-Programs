@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\bin\Debug\net9.0\Prog_Soma_ATT.exe
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\bin\Debug\net9.0\Prog_Soma_ATT.deps.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\bin\Debug\net9.0\Prog_Soma_ATT.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\bin\Debug\net9.0\Prog_Soma_ATT.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\bin\Debug\net9.0\Prog_Soma_ATT.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\Prog_Soma_ATT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\Prog_Soma_ATT.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\Prog_Soma_ATT.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\Prog_Soma_ATT.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\Prog_Soma_ATT.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\refint\Prog_Soma_ATT.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\Prog_Soma_ATT.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\Prog_Soma_ATT.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_Soma_ATT\obj\Debug\net9.0\ref\Prog_Soma_ATT.dll

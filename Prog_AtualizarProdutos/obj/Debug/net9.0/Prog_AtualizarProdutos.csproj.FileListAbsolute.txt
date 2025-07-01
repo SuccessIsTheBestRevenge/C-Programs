@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\bin\Debug\net9.0\Prog_AtualizarProdutos.exe
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\bin\Debug\net9.0\Prog_AtualizarProdutos.deps.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\bin\Debug\net9.0\Prog_AtualizarProdutos.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\bin\Debug\net9.0\Prog_AtualizarProdutos.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\bin\Debug\net9.0\Prog_AtualizarProdutos.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\Prog_AtualizarProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\Prog_AtualizarProdutos.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\Prog_AtualizarProdutos.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\Prog_AtualizarProdutos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\Prog_AtualizarProdutos.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\refint\Prog_AtualizarProdutos.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\Prog_AtualizarProdutos.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\Prog_AtualizarProdutos.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_AtualizarProdutos\obj\Debug\net9.0\ref\Prog_AtualizarProdutos.dll

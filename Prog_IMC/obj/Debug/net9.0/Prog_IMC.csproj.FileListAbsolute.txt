@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\Prog_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\Prog_IMC.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\Prog_IMC.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\Prog_IMC.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\bin\Debug\net9.0\Prog_IMC.exe
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\bin\Debug\net9.0\Prog_IMC.deps.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\bin\Debug\net9.0\Prog_IMC.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\bin\Debug\net9.0\Prog_IMC.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\bin\Debug\net9.0\Prog_IMC.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\Prog_IMC.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\refint\Prog_IMC.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\Prog_IMC.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\Prog_IMC.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_IMC\obj\Debug\net9.0\ref\Prog_IMC.dll

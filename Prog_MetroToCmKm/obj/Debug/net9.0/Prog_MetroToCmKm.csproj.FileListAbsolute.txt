@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\bin\Debug\net9.0\Prog_MetroToCmKm.exe
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\bin\Debug\net9.0\Prog_MetroToCmKm.deps.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\bin\Debug\net9.0\Prog_MetroToCmKm.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\bin\Debug\net9.0\Prog_MetroToCmKm.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\bin\Debug\net9.0\Prog_MetroToCmKm.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\Prog_MetroToCmKm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\Prog_MetroToCmKm.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\Prog_MetroToCmKm.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\Prog_MetroToCmKm.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\Prog_MetroToCmKm.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\refint\Prog_MetroToCmKm.dll
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\Prog_MetroToCmKm.pdb
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\Prog_MetroToCmKm.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Fernando\ProjectGIT\Prog_MetroToCmKm\obj\Debug\net9.0\ref\Prog_MetroToCmKm.dll
